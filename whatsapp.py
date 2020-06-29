@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
 account="AC7b3bc85fc64d2fab72ada7e661e53a0e"
-token="da3d677bce4738f64521a56d717737d3"
+token="1977b6647dd3623bffd6b686631fce2e"
 # client credentials are read from TWILIO_ACCOUNT_SID and AUTH_TOKEN
 client = Client(account,token)
 
